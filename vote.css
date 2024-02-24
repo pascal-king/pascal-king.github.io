@@ -88,9 +88,8 @@ footer {
   padding: 10px;
 }
 
-.imag {
-  width: 350px;
-  padding: 25px;
+img {
+  width: 100%;
 }
 
 .header {
