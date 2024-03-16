@@ -54,6 +54,10 @@ ul {
   border-radius: 10px;
 }
 
+h2 {
+  text-align: center;
+}
+
 .fourdiv {
   text-align: center;
 
@@ -89,15 +93,20 @@ footer {
 }
 
 img {
-  width: 100%;
+  border-radius: 40px;
+}
+
+.imag {
+  width: 350px;
+  padding: 25px;
 }
 
 .header {
   overflow: hidden;
   background-color: blue;
-  border-radius: 10px;
   padding: 20px 10px;
   font-family: monospace;
+  border-radius: 20px;
 }
 
 /* Style the header links */
