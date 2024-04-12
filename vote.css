@@ -1,12 +1,12 @@
 body {
   text-align: center;
-  background-color: lightblue;
+  background-color: #E9F1FA;
   color: white;
   font-family: Grandstander;
 }
 
 footer {
-  background-color: #3f51b5;
+  background-color: #00ABE4;
   padding: 10px;
   border-radius: 10px;
 }
@@ -36,7 +36,7 @@ h2 {
 }
 
 header {
-  background-color: #3f51b5;
+  background-color: #00ABE4;
   color: white;
   padding: 30px 20px;
   display: flex;
